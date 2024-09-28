@@ -33,7 +33,8 @@ UI | Design↴
   ##
 <div> 
   <a href="mailto:simuledesign@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para simuledesign@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/gessica-araujo-datascience/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para simuledesign@gmail.com" width="100" height="30"></a>
+<a href="https://www.linkedin.com/in/gessica-araujo-datascience/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Visite meu LinkedIn" width="100" height="29.5"></a>
+
 </div>
