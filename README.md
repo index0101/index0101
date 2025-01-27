@@ -1,5 +1,5 @@
 ## hello :)
-Eu sou a Gessica Rehder!
+Eu sou a Gessica Araújo!
 
 Atualmente, aprimorando minhas habilidades enquanto aplico o conhecimento nos programas abaixo.
 
